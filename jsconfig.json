@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@render/*": ["src/render/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
